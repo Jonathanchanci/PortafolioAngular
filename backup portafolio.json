@@ -1,0 +1,19 @@
+[ {
+  "frase" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+  "nombre" : "Juan Oquendo",
+  "subtitulo" : "Desarrollador",
+  "twitter" : "@juanOquendo",
+  "url" : "https://firebasestorage.googleapis.com/v0/b/angular-html-11bbe.appspot.com/o/team-1.jpg?alt=media&token=3a6ca927-7a0a-4e5f-b12c-08a766b688aa"
+}, {
+  "frase" : "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters",
+  "nombre" : "Juana de arco",
+  "subtitulo" : "Luchadora",
+  "twitter" : "@juanaDeArco",
+  "url" : "https://firebasestorage.googleapis.com/v0/b/angular-html-11bbe.appspot.com/o/team-2.jpg?alt=media&token=4cf26395-ed1d-4b8a-b757-d00e446d2aa6"
+}, {
+  "frase" : "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old",
+  "nombre" : "Michael Jackson",
+  "subtitulo" : "Cantante bailarin",
+  "twitter" : "@MJackson",
+  "url" : "https://firebasestorage.googleapis.com/v0/b/angular-html-11bbe.appspot.com/o/team-3.jpg?alt=media&token=b0d42bb6-1560-4367-ba21-7b368d5b9274"
+} ]
